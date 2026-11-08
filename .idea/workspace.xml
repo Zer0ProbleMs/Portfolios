@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2075843-4095-4406-ad8d-0558cd774bd5" name="Changes" comment="Règlement de bug et ajout d'animations et box" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zer0ProbleMs&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zer0ProbleMs/Portfolios&quot;,
+    &quot;accountId&quot;: &quot;37789067-0bd1-4c2b-bf04-8d991e307db9&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0796600392088482" />
+      <entry key="MS500" value="1.612695518069736" />
+      <entry key="S2" value="3.4721732054263375" />
+      <entry key="S5" value="7.594309019101165" />
+      <entry key="S10" value="11.163185644956439" />
+      <entry key="S30" value="15.159576529031538" />
+      <entry key="S60" value="16.490043421997846" />
+      <entry key="M2" value="17.220704225369193" />
+      <entry key="M5" value="17.701418183493143" />
+      <entry key="M10" value="18.997829281363313" />
+      <entry key="M15" value="24.08764914789266" />
+      <entry key="M30" value="60.948119085468754" />
+      <entry key="H1" value="163.37472254042797" />
+      <entry key="H2" value="366.1082717570131" />
+      <entry key="H4" value="664.1551519198822" />
+      <entry key="D1" value="1278.2050035678462" />
+      <entry key="W1" value="1454.570826580583" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.392751724862317E-222" />
+      <entry key="S10" value="2.528399629060561E-111" />
+      <entry key="S30" value="1.3885559642454667E-37" />
+      <entry key="S60" value="4.380117007780789E-19" />
+      <entry key="M2" value="1.0314946183758803E-9" />
+      <entry key="M5" value="7.385889355662525E-4" />
+      <entry key="M10" value="0.10520860715822243" />
+      <entry key="M15" value="0.6528047987359807" />
+      <entry key="M30" value="5.042947441495555" />
+      <entry key="H1" value="17.37080585543658" />
+      <entry key="H2" value="39.62598937913013" />
+      <entry key="H4" value="69.63991100469127" />
+      <entry key="D1" value="129.00087390302085" />
+      <entry key="W1" value="145.89548969098766" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0290530154010114" />
+      <entry key="MS500" value="1.5979421175192388" />
+      <entry key="S2" value="3.470155919688848" />
+      <entry key="S5" value="7.65276984441072" />
+      <entry key="S10" value="11.35845447017295" />
+      <entry key="S30" value="15.714495936009705" />
+      <entry key="S60" value="17.231578890310654" />
+      <entry key="M2" value="18.080920723152634" />
+      <entry key="M5" value="18.64337510060131" />
+      <entry key="M10" value="20.07083851372965" />
+      <entry key="M15" value="25.712458766880744" />
+      <entry key="M30" value="66.95473080149806" />
+      <entry key="H1" value="181.69760373967247" />
+      <entry key="H2" value="406.68307792922883" />
+      <entry key="H4" value="734.7508362479058" />
+      <entry key="D1" value="1408.192403106069" />
+      <entry key="W1" value="1601.4641457837897" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LjZeB4URf9pz1fipH0ZSSWtfc4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/daris/Documents/Code/Projects/Portfolio",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Portfolio1" />
+      <recent name="$PROJECT_DIR$/en" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-WS-263.7307.202" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2075843-4095-4406-ad8d-0558cd774bd5" name="Changes" comment="" />
+      <created>1793969532587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793969532587</updated>
+      <workItem from="1793969533602" duration="4399000" />
+      <workItem from="1794064888189" duration="2222000" />
+      <workItem from="1794069576544" duration="127000" />
+      <workItem from="1794069713888" duration="21615000" />
+      <workItem from="1794136077231" duration="4843000" />
+      <workItem from="1794171014012" duration="391000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ajout initial de Navbar et d'un hero ainsi que des multiples sections avec une palette de couleur">
+      <option name="closed" value="true" />
+      <created>1794099619080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794099619080</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajout initial de Navbar et d'un hero ainsi que des multiples sections avec une palette de couleur">
+      <option name="closed" value="true" />
+      <created>1794099789959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794099789959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Règlement de bug et ajout d'animations et box">
+      <option name="closed" value="true" />
+      <created>1794171115665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794171115665</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Règlement de bug et ajout d'animations et box">
+      <option name="closed" value="true" />
+      <created>1794171162289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794171162289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout initial de Navbar et d'un hero ainsi que des multiples sections avec une palette de couleur" />
+    <MESSAGE value="Règlement de bug et ajout d'animations et box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Règlement de bug et ajout d'animations et box" />
+  </component>
+</project>
